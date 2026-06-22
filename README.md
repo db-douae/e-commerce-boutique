@@ -12,3 +12,17 @@
 **Note 2:** The README.md file is written in English first, then in Arabic. You can read the Arabic version below.
 
 **Note 3:** The project template is currently available for purchase and can be modified upon request.
+
+---
+
+### بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+This report covers:
+
+* Project overview
+* Key features
+* Implementation methods
+* Security
+* Contacting me
+
+
