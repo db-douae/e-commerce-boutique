@@ -3,3 +3,12 @@
 > **ملاحظة 2:** ملف README.md مكتوب بالإنجليزية أولاً ثم بالعربية، يمكنك قراءة النسخة العربية في الأسفل.
 > 
 > **ملاحظة 3:** قالب المشروع متاح للبيع حاليا و يمكن تعديل عليه في حالة طلب ذلك.
+
+---
+
+
+**Note:** The code is closed source. A video of the project has been published, and its components can be found in the description below.
+
+**Note 2:** The README.md file is written in English first, then in Arabic. You can read the Arabic version below.
+
+**Note 3:** The project template is currently available for purchase and can be modified upon request.
