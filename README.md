@@ -93,9 +93,9 @@ https://github.com/user-attachments/assets/475b0808-632d-4774-af1a-a7e974c3c875
 
 ---
 
-- LinkedIn:
-- Facebook:
-- GitHub:
+- [LinkedIn](https://www.linkedin.com/in/douaa-benchidi-784604411/)
+- [Facebook](https://www.facebook.com/unknown.928707)
+- [GitHub](https://github.com/db-douae)
 
 ---
 ---
@@ -170,9 +170,9 @@ _ تحديد 3 طلبات على اكثر خلال 10 دقائق (لتقليل �
 
 ### تواصل معي
 
-- LinkedIn:
-- Facebook:
-- GitHub:
+- [LinkedIn](https://www.linkedin.com/in/douaa-benchidi-784604411/)
+- [Facebook](https://www.facebook.com/unknown.928707)
+- [GitHub](https://github.com/db-douae)
 
 ---
 ---
