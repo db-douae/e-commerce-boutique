@@ -16,9 +16,7 @@
 ---
 
 
-
-https://github.com/user-attachments/assets/06f18f14-f1bd-4feb-b1b1-2485762c7b56
-
+Uploading Screencast From 2026-06-21 21-56-17.mp4…
 
 
 
@@ -39,7 +37,7 @@ This report covers:
 
 I built a women's clothing store website using:
 - HTML, CSS, JavaScript
-- Raw PHP (no framework)
+- PHP Vanilla (no framework)
 - MariaDB as the database
 
 ---
@@ -132,7 +130,7 @@ https://github.com/user-attachments/assets/475b0808-632d-4774-af1a-a7e974c3c875
 - سلة المشتريات
 - نافذة إتمام الطلب وإدخال معلومات التوصيل
 
-> الدفع عند الاستلام فقط، مما يجعل عملية الطلب بسيطة وسريعة.
+> الدفع عند الاستلام فقط، لجعل عملية الطلب بسيطة وسريعة.
 
 **الجزء الثاني — لوحة التحكم (Admin Panel):**
 لا تظهر للمشتري العادي، وتحتوي على:
