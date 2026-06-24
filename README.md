@@ -43,7 +43,7 @@ I built a women's clothing store website using:
 
 The project consists of two parts:
 
-**Part One — Customer Interface:**
+**Part One - Customer Interface:**
 - Homepage
 - Products page with category filters and search, with the ability to add items directly to the cart
 - Shopping cart
@@ -53,7 +53,7 @@ The project consists of two parts:
 
 https://github.com/user-attachments/assets/e8a326db-d8e1-498c-887a-3282e1652f4d
 
-**Part Two — Admin Panel:**
+**Part Two - Admin Panel:**
 This is not visible to the average customer and includes:
 - Login page
 - Main control panel interface
@@ -122,7 +122,7 @@ https://github.com/user-attachments/assets/475b0808-632d-4774-af1a-a7e974c3c875
 
 يتكون المشروع من جزأين:
 
-**الجزء الأول — واجهة العميل:**
+**الجزء الأول - واجهة العميل:**
 - الصفحة الرئيسية
 - صفحة المنتجات مع فلتر الفئات والبحث، مع إمكانية الإضافة المباشرة إلى السلة
 - سلة المشتريات
@@ -130,7 +130,7 @@ https://github.com/user-attachments/assets/475b0808-632d-4774-af1a-a7e974c3c875
 
 > الدفع عند الاستلام فقط، لجعل عملية الطلب بسيطة وسريعة.
 
-**الجزء الثاني — لوحة التحكم (Admin Panel):**
+**الجزء الثاني - لوحة التحكم (Admin Panel):**
 لا تظهر للمشتري العادي، وتحتوي على:
 - صفحة تسجيل الدخول
 - واجهة لوحة تحكم رئيسية 
